@@ -6,6 +6,7 @@ Syntax
 * https://docs.microsoft.com/ko-kr/dotnet/csharp/whats-new/csharp-6
 * https://docs.microsoft.com/ko-kr/dotnet/csharp/linq/
 * https://docs.microsoft.com/ko-kr/dotnet/csharp/event-pattern
+* https://docs.microsoft.com/ko-kr/dotnet/csharp/iterators
 * https://docs.microsoft.com/ko-kr/dotnet/csharp/discards
 
 Memory Management
